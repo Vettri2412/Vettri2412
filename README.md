@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vettri2412
-- 👀 I’m interested in ...Recruitment, HR Profession
-- 🌱 I’m currently learning ...Data Visualization
+- 👋 Hi, I’m @Vettriselvi
+- 👀 I’m interested in ...Recruitment, HR Profession, Data Visualization
+- 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...GitHub
 - 📫 How to reach me ...
 
